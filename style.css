@@ -86,9 +86,9 @@
   }
   
   .link-btn.secondary {
-    background: white;
+    background: rgb(217, 255, 210);
     color: var(--text-dark);
-    border: 1px solid #e5e7eb;
+    border: 1px solid #002f0e;
   }
   
   .link-btn:active {
